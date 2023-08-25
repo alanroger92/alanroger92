@@ -1,24 +1,42 @@
-## Bem-vindo(a) ao meu perfil 😁
+# Olá, eu sou Alan Róger 👋
+Graduado em Tecnólogo em Administração e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-<div>
-  <a href="https://github.com/alanroger92">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanroger92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanroger92&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+## Sobre Mim
+- 🌟 Mais de 10 anos de experiência em trabalhos com público.
+- 💼 Experiência em logística, atendimento ao cliente e vendas.
+- 👨‍💻 Instrutor de Programação para crianças e adolescentes.
+
+## Habilidades 🔧
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+## Habilidades Interpessoais 💬
+- 💬 **Comunicação**: Habilidade de comunicação verbal e escrita.
+- 👥 **Trabalho em Equipe**: Colaboração eficaz em equipes multidisciplinares.
+- 🛠️ **Resolução de Problemas**: Identificação e solução de problemas.
+- 🔄 **Adaptabilidade**: Pronto para desafios e aprendizado rápido.
+- ❤️ **Empatia**: Compreensão das necessidades dos clientes.
+- 🚀 **Liderança**: Experiência em liderança de grupos.
+
+## Conecte-se Comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alanroger92/)
+[![E-mail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanroger92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-róger-da-costa-362356205/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alanroger92/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551989495983)
+
+
+
+
+## GitHub Stats
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alanroger92&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" width="48%" height="200px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alanroger92&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" width="48%" height="200px">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Para me contatar, siga-me nas redes sociais abaixo!
- 
-<div> 
-  <a href="https://instagram.com/alanroger92" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:alanroger92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-r%C3%B3ger-da-costa-362356205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+#
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&pause=1000&center=true&multiline=true&width=2000&height=70&lines=%22A+programa%C3%A7%C3%A3o+permite+que+voc%C3%AA+pense+em+resolver+problemas+de+maneira+mais+eficiente+e+elegante.%22+-+Steve+Jobs)](https://git.io/typing-svg)
