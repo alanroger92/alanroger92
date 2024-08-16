@@ -22,7 +22,6 @@ Graduado em Tecnólogo em Administração e atualmente cursando Análise e Desen
 - 🚀 **Liderança**: Experiência em liderança de grupos.
 
 ## Conecte-se Comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alanroger92/)
 [![E-mail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanroger92@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-róger-da-costa-362356205/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alanroger92/)
