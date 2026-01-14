@@ -28,14 +28,6 @@ Graduado em Tecnólogo em Administração e atualmente cursando Análise e Desen
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551989495983)
 
 
-
-
-## GitHub Stats
-<div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alanroger92&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" width="50%" height="200px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alanroger92&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" width="45%" height="200px">
-</div>
-
 #
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&pause=1000&center=true&multiline=true&width=2000&height=70&lines=%22A+programa%C3%A7%C3%A3o+permite+que+voc%C3%AA+pense+em+resolver+problemas+de+maneira+mais+eficiente+e+elegante.%22+-+Steve+Jobs)](https://git.io/typing-svg)
