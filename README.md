@@ -2,7 +2,7 @@
 Graduado em Tecnólogo em Administração e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 ## Sobre Mim
-- 🌟 Mais de 10 anos de experiência em trabalhos com público.
+- 🌟 Mais de 15 anos de experiência em trabalhos com público.
 - 💼 Experiência em logística, atendimento ao cliente e vendas.
 - 👨‍💻 Instrutor de Programação para crianças e adolescentes.
 
@@ -23,9 +23,9 @@ Graduado em Tecnólogo em Administração e atualmente cursando Análise e Desen
 
 ## Conecte-se Comigo
 [![E-mail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanroger92@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-róger-da-costa-362356205/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanroger92/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alanroger92/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551989495983)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551989814774)
 
 
 #
